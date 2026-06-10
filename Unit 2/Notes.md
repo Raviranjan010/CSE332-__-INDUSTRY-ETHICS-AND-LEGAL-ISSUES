@@ -295,13 +295,14 @@ A **patent** is an exclusive right granted by the government to an inventor for 
 - Software (in USA, with limitations)
 
 ### What CANNOT Be Patented (India - Section 3, Patents Act 1970):
-- Natural phenomena / laws of nature
-- Mathematical methods
-- Mental acts
-- Business methods (in India)
-- Software per se (in India)
-- Medical diagnostic methods
-- Plants and animals (in India)
+- **Section 3(a):** Frivolous inventions contrary to well-established natural laws.
+- **Section 3(b):** Inventions contrary to public order or morality (e.g., bioweapons or hacking devices).
+- **Section 3(c):** Mere discovery of a scientific principle or formulation of an abstract theory.
+- **Section 3(d):** Discovery of a new form of a known substance which does not result in increased efficacy (prevents "evergreening", as seen in the Novartis Gleevec case).
+- **Section 3(h):** A method of agriculture or horticulture.
+- **Section 3(i):** Any process for the medicinal, surgical, curative, prophylactic, diagnostic, therapeutic or other treatment of human beings or animals.
+- **Section 3(k):** A mathematical method, a business method, a computer program *per se*, or algorithms.
+- **Section 3(p):** Traditional knowledge or biological resources (combats biopiracy, e.g., Neem and Turmeric cases).
 
 ### Types of Patents:
 | Type | Description |
