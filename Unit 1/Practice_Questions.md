@@ -22,6 +22,7 @@
     * D refers to positive law. 
     * E is incorrect because ethics is a reasoned, systematic study, not just arbitrary personal preferences. 
     * F refers to computer science algorithms.
+* **Topic Selection Rationale:** Evaluates understanding of key ethical principles, professional standards, and social responsibility in the IT and engineering industry.
 
 **MCQ 2. Integrity is distinct from honesty because integrity requires:**
 - A) Merely stating the truth under court oath.
@@ -39,6 +40,7 @@
     * D represents blind loyalty, which often leads to ethical violations. 
     * E is collusion/unethical secrecy. 
     * F is opportunism, which contradicts integrity.
+* **Topic Selection Rationale:** Differentiates between honesty and integrity, emphasizing consistency of character in professional settings.
 
 **MCQ 3. Richard Mason’s PAPA framework in IT ethics stands for:**
 - A) Privacy, Authenticity, Property, Accessibility
@@ -54,6 +56,7 @@
     * A includes Authenticity.
     * B includes Protection and Patents.
     * D, E, and F replace Accessibility with Accountability or use terms like Prevention and Patents, which are not part of Mason's original framework.
+* **Topic Selection Rationale:** Tests knowledge of Richard Mason's PAPA framework, which is the foundational ethical model for the information age.
 
 **MCQ 4. The primary ethical duty of an engineer, according to professional codes (like IEEE/ASME), is to prioritize:**
 - A) The financial profitability of the client.
@@ -70,6 +73,7 @@
     * D must be overridden if public safety is threatened. 
     * E is incorrect because professionals must accept public criticism to maintain transparency. 
     * F is financial compliance, not engineering safety.
+* **Topic Selection Rationale:** Evaluates familiarity with standard professional IT/engineering codes of ethics and professional conduct rules.
 
 **MCQ 5. A software developer discovers a critical security vulnerability in a shipped product but is told by the manager to stay silent to avoid bad press. Staying silent is:**
 - A) Ethical because it protects the employer's reputation.
@@ -86,6 +90,7 @@
     * C is incorrect because Utilitarianism rejects actions where public risk outweighs private corporate benefit. 
     * E is incorrect because a 2-year delay is negligent. 
     * F is incorrect because inevitability of bugs does not justify hiding known critical vulnerabilities.
+* **Topic Selection Rationale:** Evaluates understanding of key ethical principles, professional standards, and social responsibility in the IT and engineering industry.
 
 **MCQ 6. Which ethical framework focuses on maximizing the "greatest good for the greatest number of people"?**
 - A) Deontology (Kant)
@@ -103,6 +108,7 @@
     * D claims morality is subjective. 
     * E is selfish gain. 
     * F refers to political consensus.
+* **Topic Selection Rationale:** Tests understanding of major ethical frameworks (consequentialism, duty-based ethics, virtue ethics) and their application to moral decision-making.
 
 **MCQ 7. The Challenger Space Shuttle disaster (1986) is a classic example of:**
 - A) **Engineering warnings being overridden by corporate pressure, leading to failure.** ✓
@@ -119,6 +125,7 @@
     * C and F are incorrect because no piracy or hacking occurred. 
     * D is incorrect because it was a failure of risk management. 
     * E is incorrect because the flaw was identified by Morton Thiokol engineers.
+* **Topic Selection Rationale:** Evaluates the student's understanding of historical engineering failures and the ethical duty of prioritizing public safety over corporate pressure.
 
 **MCQ 8. An Acceptable Use Policy (AUP) is used by organizations primarily to:**
 - A) Register software patents with the government.
@@ -136,6 +143,7 @@
     * D refers to non-competes. 
     * E is a technical control, not a policy. 
     * F refers to payroll.
+* **Topic Selection Rationale:** Tests the purpose and scope of an organization's Acceptable Use Policy in regulating employee IT usage.
 
 **MCQ 9. The Satyam Computer Services scandal (2009) is India's most famous case of:**
 - A) Software copyright piracy.
@@ -153,6 +161,7 @@
     * D is pollution. 
     * E is trademark. 
     * F is hardware failure.
+* **Topic Selection Rationale:** Evaluates understanding of key ethical principles, professional standards, and social responsibility in the IT and engineering industry.
 
 **MCQ 10. The Digital Sakhi program in India is designed to:**
 - A) Train women to become advanced cybersecurity hackers.
@@ -170,6 +179,7 @@
     * D is corporate database management. 
     * E is operating system development. 
     * F is male-focused.
+* **Topic Selection Rationale:** Tests awareness of technological initiatives promoting gender diversity and women's economic empowerment in India.
 
 **MCQ 11. Which of the following represents an action that is legal but unethical?**
 - A) Hacking a bank database to steal money.
@@ -186,6 +196,7 @@
     * C is illegal but can be morally justified (ethical) to save a life. 
     * D is plagiarism and violates copyright law (illegal). 
     * F is both legal and ethical.
+* **Topic Selection Rationale:** Contrasts legal compliance with ethical responsibility, testing the boundaries of both concepts.
 
 **MCQ 12. A whistleblower is a person who:**
 - A) Steals company code to sell it to a competitor.
@@ -203,6 +214,7 @@
     * D represents normal corporate auditing. 
     * E is black-hat malware development. 
     * F refers to HR recruitment.
+* **Topic Selection Rationale:** Tests the concept of whistleblowing, its ethical justification, and its role in exposing corporate misconduct.
 
 **MCQ 13. The Bhopal Gas Tragedy (1984) is a catastrophic failure of:**
 - A) Software code compiler accuracy.
@@ -220,6 +232,7 @@
     * D is digital privacy. 
     * E is quantum computing. 
     * F is satellite telecommunication.
+* **Topic Selection Rationale:** Evaluates the student's understanding of historical engineering failures and the ethical duty of prioritizing public safety over corporate pressure.
 
 **MCQ 14. Which framework in ethical decision-making states that some actions are absolute duties and are always wrong (e.g. lying), regardless of outcome?**
 - A) Utilitarianism
@@ -237,6 +250,7 @@
     * D is subjective. 
     * E is selfish. 
     * F is context-dependent.
+* **Topic Selection Rationale:** Tests understanding of major ethical frameworks (consequentialism, duty-based ethics, virtue ethics) and their application to moral decision-making.
 
 **MCQ 15. The "broken rung" in tech workforce diversity refers to the barrier women face when trying to:**
 - A) Obtain entry-level engineering internships.
@@ -254,6 +268,7 @@
     * D is coding skills. 
     * E is stock buying. 
     * F is attending events.
+* **Topic Selection Rationale:** Evaluates understanding of key ethical principles, professional standards, and social responsibility in the IT and engineering industry.
 
 **MCQ 16. The ACM Code of Ethics specifically mandates that IT professionals must:**
 - A) Exclusively write open-source software.
@@ -271,6 +286,7 @@
     * D is not mandated. 
     * E is incorrect because they can work for corporations. 
     * F is incorrect because AI systems are allowed if designed ethically.
+* **Topic Selection Rationale:** Evaluates familiarity with standard professional IT/engineering codes of ethics and professional conduct rules.
 
 **MCQ 19. If you return a lost wallet because you fear the security cameras might catch you keeping it, you are acting out of:**
 - A) Deep moral integrity.
@@ -287,6 +303,7 @@
     * D is whistleblower courage. 
     * E is absolute duty. 
     * F is outcome-based calculation.
+* **Topic Selection Rationale:** Evaluates understanding of key ethical principles, professional standards, and social responsibility in the IT and engineering industry.
 
 **MCQ 20. Which of the following is NOT an element of an ethical work environment?**
 - A) Psychological safety to report violations.
@@ -300,6 +317,7 @@
   * **Why C is correct:** Having no reporting channels is toxic and prevents the detection of unethical behavior.
   * **Why others are incorrect:** 
     * Safety (A), code (B), equality (D), audits (E), and fair pay (F) are critical building blocks of an ethical environment.
+* **Topic Selection Rationale:** Contrasts legal compliance with ethical responsibility, testing the boundaries of both concepts.
 
 **MCQ 21. Ethics studies human behavior to set standards for:**
 - A) What is legally permitted.
@@ -317,6 +335,7 @@
     * D refers to physics. 
     * E refers to politics. 
     * F refers to math.
+* **Topic Selection Rationale:** Evaluates understanding of key ethical principles, professional standards, and social responsibility in the IT and engineering industry.
 
 **MCQ 22. In the context of business ethics, who counts as a stakeholder?**
 - A) Only the shareholders who own equity.
@@ -331,6 +350,7 @@
   * **Why others are incorrect:** 
     * A, C, E, and F are single subsets of stakeholders. 
     * D refers to competitors, who are not standard stakeholders.
+* **Topic Selection Rationale:** Evaluates understanding of key ethical principles, professional standards, and social responsibility in the IT and engineering industry.
 
 **MCQ 23. A corporate code of conduct helps a company by:**
 - A) Guaranteeing 100% financial profit.
@@ -344,6 +364,7 @@
   * **Why B is correct:** The code sets expectations for employee behavior.
   * **Why others are incorrect:** 
     * A, C, D, E, and F are unrealistic or not the purpose of a code of conduct.
+* **Topic Selection Rationale:** Evaluates understanding of key ethical principles, professional standards, and social responsibility in the IT and engineering industry.
 
 **MCQ 24. The difference between moral values and ethical principles is that values are beliefs, whereas principles are:**
 - A) The legal codes written by police.
@@ -361,6 +382,7 @@
     * D is startup grants. 
     * E is physics. 
     * F is coding.
+* **Topic Selection Rationale:** Contrasts legal compliance with ethical responsibility, testing the boundaries of both concepts.
 
 **MCQ 25. An employee reporting accounting fraud to the SEC is protected by:**
 - A) Software piracy clauses.
@@ -374,6 +396,7 @@
   * **Why B is correct:** Whistleblower protection laws shield employees from corporate retaliation when reporting fraud.
   * **Why others are incorrect:** 
     * A, C, D, E, and F are not whistleblower protection mechanisms.
+* **Topic Selection Rationale:** Evaluates understanding of key ethical principles, professional standards, and social responsibility in the IT and engineering industry.
 
 **MCQ 26. Which of the following is a key ethical challenge unique to the digital age?**
 - A) Employee salary negotiations.
@@ -387,6 +410,7 @@
   * **Why B is correct:** Cyberspace allows perfect, free copying of files, presenting unique IP challenges.
   * **Why others are incorrect:** 
     * A, C, D, E, and F are traditional business elements.
+* **Topic Selection Rationale:** Contrasts legal compliance with ethical responsibility, testing the boundaries of both concepts.
 
 **MCQ 27. The Boeing 737 MAX crashes (2018-2019) were caused by a failure in:**
 - A) Corporate tax compliance.
@@ -400,6 +424,7 @@
   * **Why B is correct:** Boeing hid software quirks from regulators and pilots to avoid costly simulator retraining, causing fatal crashes.
   * **Why others are incorrect:** 
     * A, C, D, E, and F are not the root cause of the 737 MAX crashes.
+* **Topic Selection Rationale:** Evaluates the student's understanding of historical engineering failures and the ethical duty of prioritizing public safety over corporate pressure.
 
 **MCQ 28. In Mason's PAPA framework, the question "Who owns the data?" falls under:**
 - A) Privacy
@@ -416,6 +441,7 @@
     * Accuracy (B) is correctness. 
     * Accessibility (D) is access rights. 
     * E and F are not part of PAPA.
+* **Topic Selection Rationale:** Tests knowledge of Richard Mason's PAPA framework, which is the foundational ethical model for the information age.
 
 **MCQ 29. Which startup empowers millions of women to run businesses using only smartphones?**
 - A) Freshworks
@@ -429,6 +455,7 @@
   * **Why B is correct:** Meesho's social e-commerce model lets women resell products using WhatsApp/Instagram.
   * **Why others are incorrect:** 
     * Freshworks (A), OYO (C), Zerodha (D), Paytm (E), and Nykaa (F) are not built primarily on rural women reselling models.
+* **Topic Selection Rationale:** Tests understanding of major ethical frameworks (consequentialism, duty-based ethics, virtue ethics) and their application to moral decision-making.
 
 **MCQ 30. Moral rights in copyright law are designed to protect the creator's:**
 - A) Absolute financial royalties forever.
@@ -445,6 +472,7 @@
     * It is not related to trademarks (C), corporate stock (E), or patents (F).
 
 *(MCQs 31 to 50 follow the same 6-option format to ensure full syllabus coverage)*
+* **Topic Selection Rationale:** Tests understanding of common ethical issues for IT users, specifically software piracy and academic integrity.
 
 **MCQ 31. Ethics is derived from the Greek word:**
 - A) **Ethos** ✓
@@ -462,6 +490,7 @@
     * Ergon (D) is work. 
     * Logos (E) is word/reason. 
     * Nomos (F) is law.
+* **Topic Selection Rationale:** Evaluates understanding of key ethical principles, professional standards, and social responsibility in the IT and engineering industry.
 
 **MCQ 32. In a workplace, corporate governance is the system of:**
 - A) Managing computer hardware.
@@ -475,6 +504,7 @@
   * **Why B is correct:** Corporate governance sets rules for company management and control.
   * **Why others are incorrect:** 
     * Hardware (A), tax (C), programming (D), sports (E), and servers (F) are not the definition of corporate governance.
+* **Topic Selection Rationale:** Evaluates understanding of key ethical principles, professional standards, and social responsibility in the IT and engineering industry.
 
 **MCQ 33. The principle that states "Do unto others as you would have them do unto you" is called:**
 - A) **The Golden Rule** ✓
@@ -490,6 +520,7 @@
     * Categorical Imperative (C) is Kantian. 
     * Utilitarian Calculus (B) is outcome-based. 
     * Virtue (D), Social Contract (E), and Justice (F) are other frameworks.
+* **Topic Selection Rationale:** Evaluates understanding of key ethical principles, professional standards, and social responsibility in the IT and engineering industry.
 
 **MCQ 34. What happens when corporate leadership neglects the "Tone at the Top"?**
 - A) System performance increases.
@@ -503,6 +534,7 @@
   * **Why B is correct:** If leaders ignore ethics, employees assume misconduct is acceptable.
   * **Why others are incorrect:** 
     * Leadership neglect does not improve performance (A), lower taxes (C), stop piracy (D), guarantee high stock (E), or shut competitors (F).
+* **Topic Selection Rationale:** Evaluates the importance of ethical leadership and corporate governance in shaping organizational culture.
 
 **MCQ 35. Plagiarism is defined as:**
 - A) Downloading software without paying.
@@ -520,6 +552,7 @@
     * Database intrusion is D. 
     * Counterfeiting is E. 
     * Disinformation is F.
+* **Topic Selection Rationale:** Tests understanding of common ethical issues for IT users, specifically software piracy and academic integrity.
 
 **MCQ 36. If a researcher falsifies research data to get a paper published quickly, they violate:**
 - A) Digital accessibility laws.
@@ -533,6 +566,7 @@
   * **Why B is correct:** Falsifying data directly violates research integrity.
   * **Why others are incorrect:** 
     * It is not related to accessibility (A), trademarks (C), labor safety (D), environment (E), or licensing (F).
+* **Topic Selection Rationale:** Evaluates understanding of key ethical principles, professional standards, and social responsibility in the IT and engineering industry.
 
 **MCQ 37. Which of the following is an example of digital ethics?**
 - A) Restoring hard drive files.
@@ -546,6 +580,7 @@
   * **Why B is correct:** Digital ethics governs moral conduct in technological spaces.
   * **Why others are incorrect:** 
     * Restoring files (A), purchasing cards (C), running compilers (D), monitor assembly (E), and domains (F) are technical or commercial actions.
+* **Topic Selection Rationale:** Evaluates understanding of key ethical principles, professional standards, and social responsibility in the IT and engineering industry.
 
 **MCQ 38. The digital divide refers to:**
 - A) A partition on a hard drive.
@@ -559,6 +594,7 @@
   * **Why B is correct:** The digital divide highlights equity and access problems.
   * **Why others are incorrect:** 
     * It is not a partition (A), syntax error (C), trademark dispute (D), table split (E), or connection speed (F).
+* **Topic Selection Rationale:** Evaluates understanding of key ethical principles, professional standards, and social responsibility in the IT and engineering industry.
 
 **MCQ 39. Which ethical framework focuses on the internal character of the decision-maker?**
 - A) Utilitarianism
@@ -572,6 +608,7 @@
   * **Why C is correct:** Virtue ethics (Aristotle) asks, "What would a moral role model do?"
   * **Why others are incorrect:** 
     * Utilitarianism (A), Deontology (B), Social Contract (D), Egoism (E), and Relativism (F) evaluate other aspects (outcomes, rules, contracts, self, or context).
+* **Topic Selection Rationale:** Tests understanding of major ethical frameworks (consequentialism, duty-based ethics, virtue ethics) and their application to moral decision-making.
 
 **MCQ 40. When an IT company blocks access to torrent sites on office Wi-Fi, it is:**
 - A) Committing cyberterrorism.
@@ -585,6 +622,7 @@
   * **Why B is correct:** Blocking sites prevents network misuse and piracy.
   * **Why others are incorrect:** 
     * It is not terrorism (A), infringement (C), biopiracy (D), labor violation (E), or open source promotion (F).
+* **Topic Selection Rationale:** Evaluates understanding of key ethical principles, professional standards, and social responsibility in the IT and engineering industry.
 
 **MCQ 41. An ethical dilemma is best described as a situation in which:**
 - A) A person has to choose between a legal and an illegal action.
@@ -599,6 +637,7 @@
   * **Why others are incorrect:** 
     * Legal vs illegal (A) and firing for theft (E) are compliance issues. 
     * C, D, and F do not involve moral conflict.
+* **Topic Selection Rationale:** Contrasts legal compliance with ethical responsibility, testing the boundaries of both concepts.
 
 **MCQ 42. Using office computers to mine cryptocurrency during work hours without consent is:**
 - A) Ethical under the principle of open access.
@@ -612,6 +651,7 @@
   * **Why B is correct:** Misusing corporate hardware and electricity for personal financial gain is theft.
   * **Why others are incorrect:** 
     * Theft of resources is never ethical or recommended (A, C, E, F) and is not legal (D).
+* **Topic Selection Rationale:** Evaluates understanding of key ethical principles, professional standards, and social responsibility in the IT and engineering industry.
 
 **MCQ 43. The primary reason companies conduct regular ethics audits is to:**
 - A) Evade federal tax filings.
@@ -625,6 +665,7 @@
   * **Why B is correct:** Audits scan the company's culture and check compliance with the Code of Ethics.
   * **Why others are incorrect:** 
     * Audits are not for tax evasion (A), cost cuts (C), trademarks (D), encryption (E), or branch closures (F).
+* **Topic Selection Rationale:** Evaluates understanding of key ethical principles, professional standards, and social responsibility in the IT and engineering industry.
 
 **MCQ 44. Beti Bachao Beti Padhao is an Indian scheme aimed at:**
 - A) Supplying laptops to software engineers.
@@ -638,6 +679,7 @@
   * **Why B is correct:** The scheme protects and educates girls.
   * **Why others are incorrect:** 
     * It has nothing to do with engineering laptops (A), male training (C), incubators (D), space (E), or fiber cables (F).
+* **Topic Selection Rationale:** Tests awareness of technological initiatives promoting gender diversity and women's economic empowerment in India.
 
 **MCQ 45. In information technology, "Accuracy" in the PAPA framework means:**
 - A) Code execution speed.
@@ -651,6 +693,7 @@
   * **Why B is correct:** Accuracy ensures data is correct, preventing errors that harm users.
   * **Why others are incorrect:** 
     * It does not refer to code speed (A), storage format (C), licensing (D), compile errors (E), or VPN (F).
+* **Topic Selection Rationale:** Tests knowledge of Richard Mason's PAPA framework, which is the foundational ethical model for the information age.
 
 **MCQ 46. Copying an assignment from the internet and submitting it as your own is:**
 - A) Ethical if you change the font.
@@ -665,6 +708,7 @@
   * **Why others are incorrect:** 
     * Font changes (A) or grading status (E) do not make it ethical. 
     * It is not fair use (C), patentable (D), or a trademark issue (F).
+* **Topic Selection Rationale:** Evaluates understanding of key ethical principles, professional standards, and social responsibility in the IT and engineering industry.
 
 **MCQ 47. Which of the following is a core component of integrity?**
 - A) Hiding mistakes from bosses.
@@ -678,6 +722,7 @@
   * **Why B is correct:** Integrity requires taking responsibility for outcomes.
   * **Why others are incorrect:** 
     * Hiding errors (A), opportunism (C), rule-breaking (D), blaming others (E), and data leaks (F) violate integrity.
+* **Topic Selection Rationale:** Differentiates between honesty and integrity, emphasizing consistency of character in professional settings.
 
 **MCQ 48. Business ethics is critical to build:**
 - A) Monopolies.
@@ -691,6 +736,7 @@
   * **Why B is correct:** Ethical companies build brand trust and survive longer.
   * **Why others are incorrect:** 
     * Monopolies (A), short-term cuts (C), secrecy (D), conflicts (E), and attrition (F) do not depend on or promote ethics.
+* **Topic Selection Rationale:** Evaluates understanding of key ethical principles, professional standards, and social responsibility in the IT and engineering industry.
 
 **MCQ 49. The ethical principle of "Fairness" requires treating people:**
 - A) Unequally based on status.
@@ -704,6 +750,7 @@
   * **Why B is correct:** Fairness demands objective, non-biased treatment.
   * **Why others are incorrect:** 
     * Inequality (A), nepotism (C), bias (D, F), and opportunistic unique treatment (E) violate fairness.
+* **Topic Selection Rationale:** Contrasts legal compliance with ethical responsibility, testing the boundaries of both concepts.
 
 **MCQ 50. Digital Sakhi trains rural women in using:**
 - A) Advanced compiler tools.
@@ -719,6 +766,7 @@
     * It does not train in compilers (A), motherboard assembly (C), graphic design (D), exploits (E), or ML (F).
 
 ---
+* **Topic Selection Rationale:** Tests awareness of technological initiatives promoting gender diversity and women's economic empowerment in India.
 
 ## 📌 PART B: 20 TRUE OR FALSE QUESTIONS
 

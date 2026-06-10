@@ -17,6 +17,7 @@
 * **Explanation:**
   * **Why B is correct:** IP represents creations of the mind (inventions, literary works, logos) and is intangible.
   * **Why others are incorrect:** IP is civil property (A), taxable (C), time-bound (D), transferable (F), and subject to contracts (E).
+* **Topic Selection Rationale:** Tests the student's comprehension of intellectual property rights, their legal protection mechanisms, and their role in business development.
 
 **MCQ 2. Which of the following conditions is NOT required for an invention to be patentable in India?**
 - A) Novelty (the invention must be new).
@@ -29,6 +30,7 @@
 * **Explanation:**
   * **Why D is correct:** Under Section 3(k) of the Indian Patents Act, mathematical methods, business methods, and computer programs "per se" are not patentable.
   * **Why others are incorrect:** Novelty (A), Non-obviousness (B), Utility (C), non-excludability (E), and full disclosure (F) are mandatory statutory requirements.
+* **Topic Selection Rationale:** Tests knowledge of patent requirements (novelty, non-obviousness, utility) and patent procedures under Indian IP law.
 
 **MCQ 3. In India, copyright protection for an individual's original literary work lasts for:**
 - A) 20 years from the date of filing.
@@ -41,6 +43,7 @@
 * **Explanation:**
   * **Why C is correct:** The Copyright Act, 1957, establishes that literary, artistic, and musical works are protected for the author's life plus 60 years.
   * **Why others are incorrect:** 20 years is for patents (A); 10 years is for trademarks (B); life+70 is US standard (E); D, F are incorrect terms.
+* **Topic Selection Rationale:** Evaluates understanding of copyright law, its duration (author's life plus 60 years in India), scope, and protection of original works.
 
 **MCQ 4. The primary function of a Trademark is to:**
 - A) Secure a monopoly over a mechanical manufacturing process.
@@ -53,6 +56,7 @@
 * **Explanation:**
   * **Why C is correct:** A trademark distinguishes the brand identity (logo, name) of a business's goods or services.
   * **Why others are incorrect:** Process monopoly is a patent (A); manuscript reproduction is copyright (B); secret formulas are trade secrets (D).
+* **Topic Selection Rationale:** Tests knowledge of trademark functions, registration of distinctive brand identifiers, shape marks, and certification marks like the ISI mark.
 
 **MCQ 5. The three-dimensional triangular shape of Toblerone chocolate packaging is protected as a:**
 - A) Utility Patent.
@@ -65,6 +69,7 @@
 * **Explanation:**
   * **Why C is correct:** 3D shapes of goods or packaging can be registered as Shape Marks under Trademark Law if they are highly distinctive.
   * **Why others are incorrect:** A is for mechanical utility; B represents design registration; D represents association membership; E certifies standards.
+* **Topic Selection Rationale:** Tests the student's comprehension of intellectual property rights, their legal protection mechanisms, and their role in business development.
 
 **MCQ 6. WIPO (World Intellectual Property Organization) is a specialized agency of the:**
 - A) World Trade Organization (WTO).
@@ -77,6 +82,7 @@
 * **Explanation:**
   * **Why B is correct:** WIPO is a self-funding agency of the United Nations established in 1967 to promote IP protection globally.
   * **Why others are incorrect:** WTO (A), EU (C), and G20 (F) cooperate on IP, but WIPO is officially a UN agency.
+* **Topic Selection Rationale:** Tests knowledge of international intellectual property treaties and the role of WIPO in global IP governance.
 
 **MCQ 7. The ISI mark printed on electric geysers and helmets in India is a:**
 - A) Service Mark.
@@ -89,6 +95,7 @@
 * **Explanation:**
   * **Why D is correct:** The ISI mark certifies that a product complies with Indian quality standards monitored by the Bureau of Indian Standards (BIS).
   * **Why others are incorrect:** It does not identify a specific brand (E), service (A), or group membership (C).
+* **Topic Selection Rationale:** Tests knowledge of trademark functions, registration of distinctive brand identifiers, shape marks, and certification marks like the ISI mark.
 
 **MCQ 8. The secret formula for Coca-Cola has been kept confidential for over 130 years as a:**
 - A) Patent.
@@ -101,6 +108,7 @@
 * **Explanation:**
   * **Why D is correct:** A trade secret protects confidential business information that has economic value, without requiring public disclosure.
   * **Why others are incorrect:** A patent (A) would force public disclosure and expire after 20 years, making it unsuitable.
+* **Topic Selection Rationale:** Evaluates understanding of trade secrets, confidentiality agreements, and how they protect commercial recipes/algorithms indefinitely.
 
 **MCQ 9. In the Novartis vs. Union of India case (2013), the Supreme Court rejected the patent on Gleevec because of:**
 - A) The drug's failure to meet safety requirements.
@@ -113,6 +121,7 @@
 * **Explanation:**
   * **Why B is correct:** Section 3(d) prevents patenting minor variations of known compounds unless they demonstrate significantly enhanced therapeutic efficacy.
   * **Why others are incorrect:** Gleevec was safe and useful (A, C) but failed Section 3(d)'s anti-evergreening threshold.
+* **Topic Selection Rationale:** Tests knowledge of patent requirements (novelty, non-obviousness, utility) and patent procedures under Indian IP law.
 
 **MCQ 10. A company that purchases patents solely to sue other businesses for infringement (without developing products) is a:**
 - A) Patent Assignee.
@@ -125,6 +134,7 @@
 * **Explanation:**
   * **Why C is correct:** Patent trolls hoard patents to extract licensing fees through aggressive litigation instead of manufacturing goods.
   * **Why others are incorrect:** A, D, E are legitimate business players; B reports fraud; F is a copyright exception.
+* **Topic Selection Rationale:** Tests knowledge of patent requirements (novelty, non-obviousness, utility) and patent procedures under Indian IP law.
 
 **MCQ 11. The primary legislation governing trademarks in India is the:**
 - A) Patents Act, 1970.
@@ -137,6 +147,7 @@
 * **Explanation:**
   * **Why C is correct:** The Trade Marks Act, 1999, regulates trademark registration, protection, and litigation in India.
   * **Why others are incorrect:** A, B, D, E govern other IP or IT domains.
+* **Topic Selection Rationale:** Tests knowledge of trademark functions, registration of distinctive brand identifiers, shape marks, and certification marks like the ISI mark.
 
 **MCQ 12. "Evergreening" in pharmaceutical patents is a strategy used by companies to:**
 - A) Make their manufacturing plants eco-friendly.
@@ -149,6 +160,7 @@
 * **Explanation:**
   * **Why B is correct:** Evergreening blocks cheap generic alternatives by slightly altering an old drug to get a new 20-year patent.
   * **Why others are incorrect:** A is sustainability; C is voluntary licensing; D is the opposite of monopolization.
+* **Topic Selection Rationale:** Tests knowledge of patent requirements (novelty, non-obviousness, utility) and patent procedures under Indian IP law.
 
 **MCQ 13. A Freedom to Operate (FTO) search and analysis is conducted by a business to:**
 - A) Obtain trademark registration quickly.
@@ -161,6 +173,7 @@
 * **Explanation:**
   * **Why B is correct:** An FTO analysis evaluates the patent landscape to ensure the company has the freedom to launch without legal suits.
   * **Why others are incorrect:** It is not for trademark filings (A), provisional filings (D), or tax operations (F).
+* **Topic Selection Rationale:** Tests the student's comprehension of intellectual property rights, their legal protection mechanisms, and their role in business development.
 
 **MCQ 14. In India, patent and trademark applications are processed by the office of:**
 - A) Reserve Bank of India (RBI).
@@ -173,6 +186,7 @@
 * **Explanation:**
   * **Why B is correct:** CGPDTM (IP India) oversees the registration and administration of patents, designs, trademarks, and GIs in India.
   * **Why others are incorrect:** RBI, SEBI, MeitY, and NITI Aayog have different regulatory or advisory roles.
+* **Topic Selection Rationale:** Tests knowledge of patent requirements (novelty, non-obviousness, utility) and patent procedures under Indian IP law.
 
 **MCQ 15. The Neem biopiracy case, where a US corporation patented a Neem-based pesticide, was resolved by:**
 - A) Paying royalties to Indian farmers.
@@ -185,6 +199,7 @@
 * **Explanation:**
   * **Why B is correct:** India successfully argued that Neem's pesticide properties were traditional knowledge documented in ancient texts (prior art), leading to patent revocation.
   * **Why others are incorrect:** The patent was revoked, not licensed (F) or bought (E).
+* **Topic Selection Rationale:** Tests knowledge of patent requirements (novelty, non-obviousness, utility) and patent procedures under Indian IP law.
 
 **MCQ 16. Under Section 9(3) of the Trade Marks Act 1999, a shape mark will be refused registration if:**
 - A) The shape is not colored.
@@ -197,6 +212,7 @@
 * **Explanation:**
   * **Why B is correct:** Shapes that are functional belong to patent law; trademarking them would give a permanent monopoly.
   * **Why others are incorrect:** Color (A), animals (D), and text (F) do not block shape mark registration.
+* **Topic Selection Rationale:** Tests knowledge of trademark functions, registration of distinctive brand identifiers, shape marks, and certification marks like the ISI mark.
 
 **MCQ 17. The "CA" logo used by the members of the Institute of Chartered Accountants of India (ICAI) is a:**
 - A) Certification Mark.
@@ -209,6 +225,7 @@
 * **Explanation:**
   * **Why B is correct:** A collective mark identifies the collective origin of goods/services or membership in a specific group.
   * **Why others are incorrect:** It is not a quality certification mark (A) or a trademark for a single business (C, D).
+* **Topic Selection Rationale:** Tests the student's comprehension of intellectual property rights, their legal protection mechanisms, and their role in business development.
 
 **MCQ 18. Associated marks under Section 15 of the Trade Marks Act 1999:**
 - A) Can be assigned to different companies separately.
@@ -221,6 +238,7 @@
 * **Explanation:**
   * **Why B is correct:** Associated marks are similar marks owned by the same proprietor. To prevent public confusion, they cannot be split up during sales/transfers.
   * **Why others are incorrect:** They cannot be split (A); they must be owned by the same firm (E); term is 10 years (D).
+* **Topic Selection Rationale:** Tests knowledge of trademark functions, registration of distinctive brand identifiers, shape marks, and certification marks like the ISI mark.
 
 **MCQ 19. A registered trademark in India is valid for a period of ______ and is ______.**
 - A) 20 years, non-renewable.
@@ -233,6 +251,7 @@
 * **Explanation:**
   * **Why B is correct:** Trademarks are valid for 10 years, and can be renewed indefinitely every 10 years upon paying renewal fees.
   * **Why others are incorrect:** 20 years is for patents (A); life+60 is for copyright (C).
+* **Topic Selection Rationale:** Tests knowledge of trademark functions, registration of distinctive brand identifiers, shape marks, and certification marks like the ISI mark.
 
 **MCQ 20. The jingle of Intel (Intel Inside) is registered as a:**
 - A) Shape Mark.
@@ -245,6 +264,7 @@
 * **Explanation:**
   * **Why B is correct:** Distinctive sound sequences that identify a brand's products or services can be registered as Sound Marks.
   * **Why others are incorrect:** It is an audio jingle, not a shape (A), word (C), or color (F).
+* **Topic Selection Rationale:** Tests the student's comprehension of intellectual property rights, their legal protection mechanisms, and their role in business development.
 
 **MCQ 21. Which of the following is true about a Certification Mark?**
 - A) The owner can use the mark on their own commercial goods.
@@ -257,6 +277,7 @@
 * **Explanation:**
   * **Why B is correct:** To maintain auditing independence, Section 70 prohibits the certification mark owner from trading in certified goods.
   * **Why others are incorrect:** Owner cannot use it (A); it has a 10-year term (C); graphical representation is required (D).
+* **Topic Selection Rationale:** Tests knowledge of trademark functions, registration of distinctive brand identifiers, shape marks, and certification marks like the ISI mark.
 
 **MCQ 22. Well-known marks under Section 2(1)(zg) are protected:**
 - A) Only in the specific class they are registered under.
@@ -269,6 +290,7 @@
 * **Explanation:**
   * **Why B is correct:** Well-known marks (e.g. Google, Tata) are protected across all classes to prevent brand dilution.
   * **Why others are incorrect:** They get cross-class protection (A); they are renewable (C).
+* **Topic Selection Rationale:** Tests knowledge of trademark functions, registration of distinctive brand identifiers, shape marks, and certification marks like the ISI mark.
 
 **MCQ 23. A series of trademarks must:**
 - A) Be owned by different companies.
@@ -281,6 +303,7 @@
 * **Explanation:**
   * **Why B is correct:** Series marks belong to the same owner, share a core brand name, and differ only in minor details (e.g. McVeggie, McChicken).
   * **Why others are incorrect:** They must be owned by the same company (A) for the same class (C).
+* **Topic Selection Rationale:** Tests knowledge of trademark functions, registration of distinctive brand identifiers, shape marks, and certification marks like the ISI mark.
 
 **MCQ 24. The common law remedy for protecting unregistered trademarks is:**
 - A) Infringement suit.
@@ -293,6 +316,7 @@
 * **Explanation:**
   * **Why B is correct:** Passing off is a common law tort action that protects unregistered trademarks against misrepresentation.
   * **Why others are incorrect:** Infringement is a statutory remedy for registered marks (A).
+* **Topic Selection Rationale:** Tests knowledge of trademark functions, registration of distinctive brand identifiers, shape marks, and certification marks like the ISI mark.
 
 **MCQ 25. The Nice Classification contains ______ classes in total.**
 - A) 50
@@ -305,6 +329,7 @@
 * **Explanation:**
   * **Why B is correct:** Nice Classification divides classes into 1-34 for goods and 35-45 for services.
   * **Why others are incorrect:** Other numbers are incorrect; 34 is only the goods subset (C).
+* **Topic Selection Rationale:** Tests the student's comprehension of intellectual property rights, their legal protection mechanisms, and their role in business development.
 
 **MCQ 26. The term of a utility patent in India is:**
 - A) 10 years.
@@ -317,6 +342,7 @@
 * **Explanation:**
   * **Why C is correct:** Patents have a standard term of 20 years from the date of filing under the Patents Act, 1970.
   * **Why others are incorrect:** 10 years is for design registration (A); life+60 is for copyright (E).
+* **Topic Selection Rationale:** Tests knowledge of patent requirements (novelty, non-obviousness, utility) and patent procedures under Indian IP law.
 
 **MCQ 27. India created the TKDL (Traditional Knowledge Digital Library) to:**
 - A) License movies online.
@@ -329,6 +355,7 @@
 * **Explanation:**
   * **Why B is correct:** TKDL translates traditional Indian medicinal knowledge into multiple languages so global patent offices do not grant invalid patents (preventing biopiracy).
   * **Why others are incorrect:** It is not for movies (A), software (C), or taxes (E).
+* **Topic Selection Rationale:** Tests the student's comprehension of intellectual property rights, their legal protection mechanisms, and their role in business development.
 
 **MCQ 28. A trade secret is protected for:**
 - A) 20 years from filing.
@@ -341,6 +368,7 @@
 * **Explanation:**
   * **Why C is correct:** Trade secrets have no expiration date as long as they are kept secret and have commercial value.
   * **Why others are incorrect:** 20 years is for patents (A); 10 years is for trademarks (B); life+60 is for copyright (D).
+* **Topic Selection Rationale:** Evaluates understanding of trade secrets, confidentiality agreements, and how they protect commercial recipes/algorithms indefinitely.
 
 **MCQ 29. Software source code is primarily protected under which IP category?**
 - A) Patent.
@@ -353,6 +381,7 @@
 * **Explanation:**
   * **Why B is correct:** Software code is treated as a "literary work" under the Copyright Act, protecting it from duplication.
   * **Why others are incorrect:** Patents (A) can only protect software under limited conditions when tied to hardware; copyright is the primary protection.
+* **Topic Selection Rationale:** Tests the student's comprehension of intellectual property rights, their legal protection mechanisms, and their role in business development.
 
 **MCQ 30. An Industrial Design registration in India protects the:**
 - A) Functional mechanism of the product.
@@ -365,6 +394,7 @@
 * **Explanation:**
   * **Why B is correct:** The Designs Act, 2000, protects the visual/aesthetic design of an article, not its mechanical functions.
   * **Why others are incorrect:** Functional mechanisms are utility patents (A); compositions are patents (C); secret formulas are trade secrets (E).
+* **Topic Selection Rationale:** Evaluates knowledge of industrial design registration protecting the aesthetic/visual design of articles.
 
 **MCQ 31. Darjeeling Tea was the first product in India to receive a:**
 - A) Patent.
@@ -377,6 +407,7 @@
 * **Explanation:**
   * **Why D is correct:** Darjeeling Tea was granted the first GI tag in India in 2004, certifying its origin and quality.
   * **Why others are incorrect:** It is a regional agricultural product (D), not a brand trademark (C) or invention patent (A).
+* **Topic Selection Rationale:** Tests understanding of Geographical Indications (GI) used to protect products originating from a specific geographical region.
 
 **MCQ 32. "Prior Art" in patent law refers to:**
 - A) The artistic drawings inside the patent application.
@@ -389,6 +420,7 @@
 * **Explanation:**
   * **Why B is correct:** Prior art includes publications, patents, or public use anywhere in the world that proves an invention is not new.
   * **Why others are incorrect:** It is not artistic drawing (A) or administrative data (D).
+* **Topic Selection Rationale:** Tests knowledge of patent requirements (novelty, non-obviousness, utility) and patent procedures under Indian IP law.
 
 **MCQ 33. A Provisional Specification is filed by an inventor to:**
 - A) Get a final patent grant immediately.
@@ -401,6 +433,7 @@
 * **Explanation:**
   * **Why B is correct:** A provisional patent application secures the priority date of invention before details are fully finalized.
   * **Why others are incorrect:** It does not grant a patent (A) and expires if a complete specification is not filed within 12 months.
+* **Topic Selection Rationale:** Tests knowledge of trademark functions, registration of distinctive brand identifiers, shape marks, and certification marks like the ISI mark.
 
 **MCQ 34. The Patent Cooperation Treaty (PCT) enables an inventor to:**
 - A) Get a single global patent that is valid in all countries.
@@ -413,6 +446,7 @@
 * **Explanation:**
   * **Why B is correct:** The PCT provides a unified procedure for filing patent applications across 150+ member nations, though the grant remains national.
   * **Why others are incorrect:** There is no "global patent" (A); patents must still be examined nationally.
+* **Topic Selection Rationale:** Tests knowledge of patent requirements (novelty, non-obviousness, utility) and patent procedures under Indian IP law.
 
 **MCQ 35. The TRIPS Agreement stands for:**
 - A) Treaty on Regional IP Standards.
@@ -425,6 +459,7 @@
 * **Explanation:**
   * **Why B is correct:** TRIPS is a key WTO agreement setting minimum standard protections for IPs globally.
   * **Why others are incorrect:** Other names are incorrect fabrications.
+* **Topic Selection Rationale:** Tests the student's comprehension of intellectual property rights, their legal protection mechanisms, and their role in business development.
 
 **MCQ 36. Under the Paris Convention, the "Right of Priority" allows an applicant to use their first filing date for subsequent filings in other member states within:**
 - A) 20 years.
@@ -437,6 +472,7 @@
 * **Explanation:**
   * **Why B is correct:** The Paris Convention grants a priority window of 12 months for patents/utility models and 6 months for industrial designs/trademarks.
   * **Why others are incorrect:** Other timelines are legally incorrect.
+* **Topic Selection Rationale:** Tests the student's comprehension of intellectual property rights, their legal protection mechanisms, and their role in business development.
 
 **MCQ 37. Copyright Infringement occurs when someone:**
 - A) Buys a genuine book from a store.
@@ -449,6 +485,7 @@
 * **Explanation:**
   * **Why B is correct:** Infringement is the unauthorized exercise of the copyright holder's exclusive rights (Section 51).
   * **Why others are incorrect:** Buying books is legal (A); original reviews are allowed under fair use (C).
+* **Topic Selection Rationale:** Evaluates understanding of copyright law, its duration (author's life plus 60 years in India), scope, and protection of original works.
 
 **MCQ 38. Deceptive Similarity under Section 2(1)(h) of the Trade Marks Act 1999 is defined as a mark that:**
 - A) Is written in a foreign language.
@@ -461,6 +498,7 @@
 * **Explanation:**
   * **Why B is correct:** Deceptive similarity creates a likelihood of confusion in the mind of a consumer with average intelligence and imperfect recollection.
   * **Why others are incorrect:** Language (A) or color (C) alone does not define deceptive similarity.
+* **Topic Selection Rationale:** Tests knowledge of trademark functions, registration of distinctive brand identifiers, shape marks, and certification marks like the ISI mark.
 
 **MCQ 39. "Non-obviousness" as a patent condition means the invention must:**
 - A) Be hidden in a secret lab.
@@ -473,6 +511,7 @@
 * **Explanation:**
   * **Why B is correct:** The invention must represent a technical advance that is not predictable to an average expert in that technical domain.
   * **Why others are incorrect:** Hidden labs (A) or software-only (F) are not the definition of non-obviousness.
+* **Topic Selection Rationale:** Tests knowledge of patent requirements (novelty, non-obviousness, utility) and patent procedures under Indian IP law.
 
 **MCQ 40. The Patents Act in India was enacted in the year:**
 - A) 1957.
@@ -485,6 +524,7 @@
 * **Explanation:**
   * **Why B is correct:** The Patents Act, 1970 is the primary law governing Indian patents, significantly amended in 2005.
   * **Why others are incorrect:** 1957 is for Copyright (A); 1999 is for Trademarks (C); 2000 is for Designs/IT Act (D).
+* **Topic Selection Rationale:** Tests knowledge of patent requirements (novelty, non-obviousness, utility) and patent procedures under Indian IP law.
 
 **MCQ 41. The Copyright Act in India was enacted in the year:**
 - A) **1957.** ✓
@@ -497,6 +537,7 @@
 * **Explanation:**
   * **Why A is correct:** The Copyright Act, 1957 regulates copyright registration and enforcement in India.
   * **Why others are incorrect:** 1970 is Patents (B); 1999 is Trademarks (C).
+* **Topic Selection Rationale:** Evaluates understanding of copyright law, its duration (author's life plus 60 years in India), scope, and protection of original works.
 
 **MCQ 42. What is the key difference between "Licensing" and "Assignment" of a trademark?**
 - A) Licensing transfers ownership; Assignment is temporary.
@@ -509,6 +550,7 @@
 * **Explanation:**
   * **Why B is correct:** Assignment is the transfer of the title/ownership of IP. Licensing is just renting/giving permission to use the IP under strict guidelines.
   * **Why others are incorrect:** A is reversed; both are legal (C) and apply to all IP (D).
+* **Topic Selection Rationale:** Tests knowledge of trademark functions, registration of distinctive brand identifiers, shape marks, and certification marks like the ISI mark.
 
 **MCQ 43. Under the "Fair Use" doctrine (Section 52 of Copyright Act), which of the following is legal?**
 - A) Selling copies of a movie to the public.
@@ -521,6 +563,7 @@
 * **Explanation:**
   * **Why B is correct:** Fair use allows copying for educational, research, criticism, or news reporting purposes without licensing.
   * **Why others are incorrect:** Commercial copying and distribution (A, C, E, F) do not qualify as fair use.
+* **Topic Selection Rationale:** Evaluates understanding of copyright law, its duration (author's life plus 60 years in India), scope, and protection of original works.
 
 **MCQ 44. A "Compulsory License" is granted by the government to allow a third party to manufacture a patented drug to:**
 - A) Shut down the patent holder's company.
@@ -533,6 +576,7 @@
 * **Explanation:**
   * **Why B is correct:** Section 84 of the Indian Patents Act allows compulsory licensing if the patented invention is not affordable or available in sufficient quantities.
   * **Why others are incorrect:** It is a public health mechanism, not a punitive corporate tool (A).
+* **Topic Selection Rationale:** Tests knowledge of patent requirements (novelty, non-obviousness, utility) and patent procedures under Indian IP law.
 
 **MCQ 45. Which of the following is a public, searchable global database of patents?**
 - A) Facebook.
@@ -545,6 +589,7 @@
 * **Explanation:**
   * **Why C is correct:** Google Patents indexes over 120 million patents globally and is free to search.
   * **Why others are incorrect:** Other sites (A, B, E, F) do not host comprehensive official patent registries.
+* **Topic Selection Rationale:** Tests knowledge of patent requirements (novelty, non-obviousness, utility) and patent procedures under Indian IP law.
 
 **MCQ 46. Moral rights under copyright law protect the author's right of:**
 - A) Earning royalties forever.
@@ -557,6 +602,7 @@
 * **Explanation:**
   * **Why B is correct:** Moral rights stay with the creator even if they sell the economic rights, preventing mutilation of their work and ensuring credit.
   * **Why others are incorrect:** Royalties are economic rights (A).
+* **Topic Selection Rationale:** Evaluates understanding of copyright law, its duration (author's life plus 60 years in India), scope, and protection of original works.
 
 **MCQ 47. "Genericide" is a legal phenomenon where a trademark:**
 - A) Is renewed successfully.
@@ -569,6 +615,7 @@
 * **Explanation:**
   * **Why B is correct:** If the public uses a brand name as the common noun for a product (e.g. Aspirin, Escalator, Linoleum), the mark loses its distinctiveness and registration.
   * **Why others are incorrect:** It is the death of a trademark's uniqueness, not a registration success (A).
+* **Topic Selection Rationale:** Tests knowledge of trademark functions, registration of distinctive brand identifiers, shape marks, and certification marks like the ISI mark.
 
 **MCQ 48. In the Nice Classification system, Class 9 includes which of the following?**
 - A) Banking services.
@@ -581,6 +628,7 @@
 * **Explanation:**
   * **Why C is correct:** Class 9 is the primary trademark class for IT software, hardware, and mobile apps.
   * **Why others are incorrect:** Banking is Class 36 (A); clothing is Class 25 (F).
+* **Topic Selection Rationale:** Tests the student's comprehension of intellectual property rights, their legal protection mechanisms, and their role in business development.
 
 **MCQ 49. In the Nice Classification system, Class 42 includes:**
 - A) Manufacturing of plastic goods.
@@ -593,6 +641,7 @@
 * **Explanation:**
   * **Why C is correct:** Class 42 covers scientific, technological, and IT design services.
   * **Why others are incorrect:** Transport is Class 39 (B); legal services is Class 45 (D).
+* **Topic Selection Rationale:** Tests the student's comprehension of intellectual property rights, their legal protection mechanisms, and their role in business development.
 
 **MCQ 50. The main headquarters of the CGPDTM (Patent Office) in India is located in:**
 - A) New Delhi.
@@ -607,6 +656,7 @@
   * **Why others are incorrect:** Other cities are branch offices.
 
 ---
+* **Topic Selection Rationale:** Tests knowledge of patent requirements (novelty, non-obviousness, utility) and patent procedures under Indian IP law.
 
 ## 📌 PART B: 20 TRUE OR FALSE QUESTIONS
 
